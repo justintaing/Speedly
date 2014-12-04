@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A579FA931A30CCFF00CB9471 /* AppIcon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A579FA8C1A30CCFF00CB9471 /* AppIcon@2x.png */; };
+		A579FA941A30CCFF00CB9471 /* AppIcon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A579FA8D1A30CCFF00CB9471 /* AppIcon@3x.png */; };
+		A579FA951A30CCFF00CB9471 /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A579FA8E1A30CCFF00CB9471 /* iTunesArtwork@2x.png */; };
+		A579FA961A30CCFF00CB9471 /* Settings@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A579FA8F1A30CCFF00CB9471 /* Settings@2x.png */; };
+		A579FA971A30CCFF00CB9471 /* Settings@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A579FA901A30CCFF00CB9471 /* Settings@3x.png */; };
+		A579FA981A30CCFF00CB9471 /* Spotlight@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A579FA911A30CCFF00CB9471 /* Spotlight@2x.png */; };
+		A579FA991A30CCFF00CB9471 /* Spotlight@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A579FA921A30CCFF00CB9471 /* Spotlight@3x.png */; };
 		A5E7AA1F1A2D48B900E47BE6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E7AA1E1A2D48B900E47BE6 /* AppDelegate.swift */; };
 		A5E7AA221A2D48B900E47BE6 /* Speedly.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A5E7AA201A2D48B900E47BE6 /* Speedly.xcdatamodeld */; };
 		A5E7AA241A2D48B900E47BE6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E7AA231A2D48B900E47BE6 /* ViewController.swift */; };
@@ -14,6 +21,7 @@
 		A5E7AA291A2D48B900E47BE6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5E7AA281A2D48B900E47BE6 /* Images.xcassets */; };
 		A5E7AA2C1A2D48B900E47BE6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A5E7AA2A1A2D48B900E47BE6 /* LaunchScreen.xib */; };
 		A5E7AA381A2D48B900E47BE6 /* SpeedlyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5E7AA371A2D48B900E47BE6 /* SpeedlyTests.swift */; };
+		A5E7AA441A2D4A0C00E47BE6 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5E7AA431A2D4A0C00E47BE6 /* CoreLocation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +35,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A579FA8C1A30CCFF00CB9471 /* AppIcon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon@2x.png"; sourceTree = "<group>"; };
+		A579FA8D1A30CCFF00CB9471 /* AppIcon@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon@3x.png"; sourceTree = "<group>"; };
+		A579FA8E1A30CCFF00CB9471 /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
+		A579FA8F1A30CCFF00CB9471 /* Settings@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Settings@2x.png"; sourceTree = "<group>"; };
+		A579FA901A30CCFF00CB9471 /* Settings@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Settings@3x.png"; sourceTree = "<group>"; };
+		A579FA911A30CCFF00CB9471 /* Spotlight@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Spotlight@2x.png"; sourceTree = "<group>"; };
+		A579FA921A30CCFF00CB9471 /* Spotlight@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Spotlight@3x.png"; sourceTree = "<group>"; };
 		A5E7AA191A2D48B900E47BE6 /* Speedly.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Speedly.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5E7AA1D1A2D48B900E47BE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A5E7AA1E1A2D48B900E47BE6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -38,6 +53,7 @@
 		A5E7AA311A2D48B900E47BE6 /* SpeedlyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpeedlyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5E7AA361A2D48B900E47BE6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A5E7AA371A2D48B900E47BE6 /* SpeedlyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpeedlyTests.swift; sourceTree = "<group>"; };
+		A5E7AA431A2D4A0C00E47BE6 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +61,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5E7AA441A2D4A0C00E47BE6 /* CoreLocation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,9 +75,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A579FA8B1A30CCFF00CB9471 /* AppIcon */ = {
+			isa = PBXGroup;
+			children = (
+				A579FA8C1A30CCFF00CB9471 /* AppIcon@2x.png */,
+				A579FA8D1A30CCFF00CB9471 /* AppIcon@3x.png */,
+				A579FA8E1A30CCFF00CB9471 /* iTunesArtwork@2x.png */,
+				A579FA8F1A30CCFF00CB9471 /* Settings@2x.png */,
+				A579FA901A30CCFF00CB9471 /* Settings@3x.png */,
+				A579FA911A30CCFF00CB9471 /* Spotlight@2x.png */,
+				A579FA921A30CCFF00CB9471 /* Spotlight@3x.png */,
+			);
+			path = AppIcon;
+			sourceTree = "<group>";
+		};
 		A5E7AA101A2D48B900E47BE6 = {
 			isa = PBXGroup;
 			children = (
+				A579FA8B1A30CCFF00CB9471 /* AppIcon */,
+				A5E7AA431A2D4A0C00E47BE6 /* CoreLocation.framework */,
 				A5E7AA1B1A2D48B900E47BE6 /* Speedly */,
 				A5E7AA341A2D48B900E47BE6 /* SpeedlyTests */,
 				A5E7AA1A1A2D48B900E47BE6 /* Products */,
@@ -164,6 +197,12 @@
 				TargetAttributes = {
 					A5E7AA181A2D48B900E47BE6 = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = Z5X47BP84M;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 0;
+							};
+						};
 					};
 					A5E7AA301A2D48B900E47BE6 = {
 						CreatedOnToolsVersion = 6.1;
@@ -196,7 +235,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				A5E7AA271A2D48B900E47BE6 /* Main.storyboard in Resources */,
+				A579FA981A30CCFF00CB9471 /* Spotlight@2x.png in Resources */,
+				A579FA951A30CCFF00CB9471 /* iTunesArtwork@2x.png in Resources */,
+				A579FA931A30CCFF00CB9471 /* AppIcon@2x.png in Resources */,
+				A579FA961A30CCFF00CB9471 /* Settings@2x.png in Resources */,
+				A579FA941A30CCFF00CB9471 /* AppIcon@3x.png in Resources */,
+				A579FA991A30CCFF00CB9471 /* Spotlight@3x.png in Resources */,
 				A5E7AA2C1A2D48B900E47BE6 /* LaunchScreen.xib in Resources */,
+				A579FA971A30CCFF00CB9471 /* Settings@3x.png in Resources */,
 				A5E7AA291A2D48B900E47BE6 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -340,6 +386,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Speedly/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -350,6 +397,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Speedly/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -409,6 +457,7 @@
 				A5E7AA3D1A2D48B900E47BE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5E7AA3E1A2D48B900E47BE6 /* Build configuration list for PBXNativeTarget "SpeedlyTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +466,7 @@
 				A5E7AA401A2D48B900E47BE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
